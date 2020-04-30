@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ADS131A04_Library)(type Legacy)(uri ${KIPRJMOD}/ADS131A04_Library.lib)(options "")(descr ""))
+  (lib (name MAX660CSA)(type Legacy)(uri ${KIPRJMOD}/MAX660CSA.lib)(options "")(descr ""))
+  (lib (name TPS723)(type Legacy)(uri ${KIPRJMOD}/TPS723.lib)(options "")(descr ""))
+)
